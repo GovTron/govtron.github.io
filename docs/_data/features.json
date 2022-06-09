@@ -1,7 +1,7 @@
 [
   {
-    "title": "One",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Engineering",
+    "description": "All of our engineers have worked at atleast one big tech company",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Certified",
+    "description": "We invest our time in learning about cloud certifications so we can build the latest and the greatest for you.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "FAR Compliance",
+    "description": "We stay up to date on the latest changes to the acquisition code.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
