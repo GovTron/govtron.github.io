@@ -8,6 +8,9 @@ main:
   - name: "Contact"
     url: "/contact/"
     weight: 5
+  - name: "Team"
+    url: "/team/"
+    weight: 3
 
 footer:
   - name: "Home"
