@@ -10,4 +10,4 @@ show_call_box: true
 
 # GovTron LLC
 
-Our mission is to help governments be more efficient by writing amazing software!
+Our mission is to help public school districts & county governments be more efficient by writing amazing software!
