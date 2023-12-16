@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# GovTron LLC
+# GovTron
 
 Our mission is to help public school districts & county governments be more efficient by writing amazing software!
